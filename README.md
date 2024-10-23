@@ -1,3 +1,5 @@
+# tech
+## GIT NOTES
 <header>
 
 <!--
@@ -11,7 +13,7 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-</header>
+</header> 
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -79,3 +81,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+it is interesting , use the # command and explore
